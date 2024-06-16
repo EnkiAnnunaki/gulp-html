@@ -33,7 +33,7 @@
     "winston": "^3.8.2"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "xo": "^0.54.0"
   },
   "files": [
